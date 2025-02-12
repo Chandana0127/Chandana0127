@@ -70,9 +70,6 @@ I’m always excited to **connect with like-minded people** who love Data Scienc
   <a href="https://linkedin.com/in/chandanav27">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:vchandu2704@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
   <a href="https://github.com/Chandana0127">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
