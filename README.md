@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm Chandana V! </h1>  
+<h1 align="center"> 👋 Hi, I'm Chandana Vinay Kumar! </h1>  
 <p align="center">
   🔹 <strong>Machine Learning & Data Science Enthusiast</strong>  
   <br>
