@@ -73,7 +73,11 @@ I’m always excited to **connect with like-minded people** who love Data Scienc
   <a href="https://github.com/Chandana0127">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
+  <a href="https://www.kaggle.com/chandu27">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle">
+  </a>
 </p>
+
 
 ---
 
